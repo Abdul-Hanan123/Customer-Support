@@ -1,0 +1,19 @@
+Company Overview:
+We are a customer-first company offering software subscription services. Our support team
+is available Monday to Friday, 9 AM to 6 PM.
+
+Refund Policy:
+Customers can request a full refund within 14 days of purchase if they are unsatisfied with
+the product. Refunds are processed within 5-7 business days back to the original payment method.
+
+Password Reset:
+To reset your password, go to the login page and click "Forgot Password." You will receive
+a reset link via email valid for 30 minutes.
+
+Subscription Plans:
+We offer three plans: Basic ($9/month), Pro ($29/month), and Enterprise (custom pricing).
+Pro and Enterprise plans include priority support and advanced analytics.
+
+Contact Support:
+Users can reach support via live chat, email at support@company.com, or by phone at
+1-800-555-0100 during business hours.
