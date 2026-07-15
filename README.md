@@ -1,4 +1,4 @@
-# AI Customer Support Chatbot — Axorvian Task 5
+# AI Customer Support Chatbot
 
 A production-style RAG-powered customer support chatbot with a company knowledge base,
 admin management panel, and context-aware multi-turn responses.
